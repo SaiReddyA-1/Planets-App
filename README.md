@@ -1,14 +1,10 @@
+Here is the revised version with a static link for the video:
+
 I've built this **Planets App** by applying the concepts we have learned till now.
 
 ### Refer to the video below:
 
-<br/>
-<div style="text-align: center;">
-  <video style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12);outline:none;" loop autoplay controls muted>
-    <source src="https://assets.ccbp.in/frontend/content/react-js/planets-app-output.mp4" type="video/mp4">
-  </video>
-</div>
-<br/>
+![Planets App Output](https://assets.ccbp.in/frontend/content/react-js/planets-app-output.mp4)
 
 ### Design Files
 
@@ -36,15 +32,11 @@ The app includes the following functionalities:
 - When the next button is clicked, the next planet details in the `planetsList` are displayed
 - When the previous button is clicked, the previous planet details in the `planetsList` are displayed
 
-<div style="text-align: center;">
-    <img src="https://assets.ccbp.in/frontend/content/react-js/planets-app-keys-breakdown.png" alt="planets keys breakdown" style="max-width:100%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
-</div>
+![Planets Keys Breakdown](https://assets.ccbp.in/frontend/content/react-js/planets-app-keys-breakdown.png)
 
 ### Components Structure
 
-<div style="text-align: center;">
-    <img src="https://assets.ccbp.in/frontend/content/react-js/planets-app-component-structure-breakdown.png" alt="component structure breakdown" style="max-width:100%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
-</div>
+![Component Structure Breakdown](https://assets.ccbp.in/frontend/content/react-js/planets-app-component-structure-breakdown.png)
 
 ### Implementation Files
 
@@ -76,3 +68,9 @@ Colors:
 
 Font-families:
 - Roboto
+
+> ### _Things to Keep in Mind_
+>
+> - All components you implement should go in the `src/components` directory.
+> - Don't change the component folder names as those are the files being imported.
+> - **Do not remove the pre-filled code**.
